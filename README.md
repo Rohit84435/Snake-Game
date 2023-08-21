@@ -4,3 +4,5 @@ Features: Snake movement, Food generation, Score tracking, Collision Detection, 
 <img width="1426" alt="full view" src="https://github.com/Rohit84435/Snake-Game/assets/89899254/89952825-33d7-4c2b-8e88-d010183c9e84">
 <img width="1440" alt="customization" src="https://github.com/Rohit84435/Snake-Game/assets/89899254/a44f1c25-3acd-429e-93b2-3751cc399a02">
 <img width="517" alt="Game over" src="https://github.com/Rohit84435/Snake-Game/assets/89899254/4f373d36-c121-46df-beda-bb3cc0b11473">
+Fully responsive i.e, one can also play this game in different devices
+<img width="517" alt="respinsive at 7 41 03 PM" src="https://github.com/Rohit84435/Snake-Game/assets/89899254/f96e5247-37e7-43a5-b004-8b723b0c24c6">
